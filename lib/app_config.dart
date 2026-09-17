@@ -2,16 +2,13 @@ var this_year = DateTime.now().year.toString();
 
 class AppConfig {
   //configure this
-  static String copyright_text =
-      "© ActiveItZone $this_year"; //this shows in the splash screen
+  static String copyright_text = ""; //this shows in the splash screen
   static String app_name =
-      "Active eCommerce CMS Demo"; //this shows in the splash screen
+      "ركن بغداد"; //this shows in the splash screen
   static String search_bar_text =
       "Search in Active eCommerce CMS..."; //this will show in app Search bar.
-  static String purchase_code =
-      "your_purchase_code"; //enter your purchase code for the app from codecanyon
-  static String system_key =
-      r"your_system_key"; //enter your purchase code for the app from codecanyon
+  static String purchase_code = "";
+  static String system_key = "ANNOSSA";
 
   //Default language config
   static String default_language = "en";
