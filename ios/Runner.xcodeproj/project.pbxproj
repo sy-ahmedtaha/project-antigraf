@@ -367,7 +367,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 4CKNRM5JB5;
 				PRODUCT_BUNDLE_IDENTIFIER = ComRokonBaghdad;
 				PROVISIONING_PROFILE_SPECIFIER = "ComRokonBaghdad AppStore";
@@ -547,7 +547,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 4CKNRM5JB5;
 				PRODUCT_BUNDLE_IDENTIFIER = ComRokonBaghdad;
 				PROVISIONING_PROFILE_SPECIFIER = "ComRokonBaghdad AppStore";
@@ -572,7 +572,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 4CKNRM5JB5;
 				PRODUCT_BUNDLE_IDENTIFIER = ComRokonBaghdad;
 				PROVISIONING_PROFILE_SPECIFIER = "ComRokonBaghdad AppStore";
