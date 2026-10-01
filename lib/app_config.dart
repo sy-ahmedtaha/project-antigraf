@@ -17,8 +17,7 @@ class AppConfig {
   //configure this
   static const bool HTTPS =
       false; //if you are using localhost , set this to false
-  static const DOMAIN_PATH =
-      "testapp.rokonbaghdad-jo.com"; //use only domain name without http:// or https://
+  static const DOMAIN_PATH = "rokonbaghdad-jo.com"; //use only domain name without http:// or https://
   //do not configure these below
   static const String API_ENDPATH = "api/v2";
   static const String PROTOCOL = HTTPS ? "https://" : "http://";
